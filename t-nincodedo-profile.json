@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-05T23:20:11Z",
+  "IdClaims": [
+    {
+      "Claim": "t:nincodedo"
+    },
+    {
+      "Claim": "mdon:@nincodedo@ocw.social"
+    },
+    {
+      "Claim": "gh:nincodedo"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "05cff8617e029e90b8de915b",
+    "Timestamp": "2023-04-05T23:22:08Z",
+    "Signature": "26c08bbbe477a677f1451aa8fe8fc327d6f95e84be49081a14de44e4cca311dedf1661a0591cb3d7f3eeaf47041d22818f338260b8dcaef943a8554c8f9fccb65d675c8f114a2f8ebd1f2565109fd00f12ca0d32d7010f7a9aef07de06a4f981784fce166d66cc00af9976986025ff8f25c752193e03c4fe5993f0aa61a50850cd6a751c056922a7674577935e72f5029b13516548d83b1e75394de2287423984d0eda10cdb2511c5272b845772a45cc1ac73f5275a6798441d8544acd14d64abdfb326f9bfedac50fd5f7a13e07567ebf4e4d00da20e0dd7e54c4b375dfca4d4d3dd01673f6e0fa41fb82debada47e3637d16627744de8aac846aedd44590e0"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "c6f050ea575fbed898f34b0c2402ffda6d36c5a249635bfe514a995fcb374fa8",
+  "ContentToHash": "v1|gh:nincodedo,mdon:@nincodedo@ocw.social,t:nincodedo|2023-04-05T23:20:11Z"
+}
